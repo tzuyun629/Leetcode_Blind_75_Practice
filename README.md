@@ -1,4 +1,5 @@
 # Leetcode_Blind_75_Practice
 Leetcode Blind 75 Practice
 
-https://leetcode.com/list/xoqag3yj/
+- Blind 75 Link: https://leetcode.com/list/xoqag3yj/
+- Personal Note: https://hackmd.io/@emma-cheng/Leetcode_Blind75_Practice
